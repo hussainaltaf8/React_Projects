@@ -1,0 +1,25 @@
+.card{
+    display: flex;
+    
+    flex-direction: row;
+}
+
+.card-img-top {
+    height: 150px;
+    width: 150px;
+}
+.card-subtitle {
+  display: flex;
+  
+}
+
+.card-subtitle->text {
+    color: black;
+    
+  }
+  .arrtext{
+      margin-right: 42px;
+  }
+  .arrtextwt{
+    margin-right: 11px;
+}
